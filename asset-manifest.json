@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/SAVE-MONEY-DASHBOARD/static/css/main.edfe0556.css",
+    "main.js": "/SAVE-MONEY-DASHBOARD/static/js/main.e26d88e3.js",
+    "static/js/453.258b012d.chunk.js": "/SAVE-MONEY-DASHBOARD/static/js/453.258b012d.chunk.js",
+    "static/media/dalton.png": "/SAVE-MONEY-DASHBOARD/static/media/dalton.cd6413034a41aedf6a06.png",
+    "static/media/transportIcon.svg": "/SAVE-MONEY-DASHBOARD/static/media/transportIcon.654be71e906e9d7918a65f62380e2676.svg",
+    "index.html": "/SAVE-MONEY-DASHBOARD/index.html",
+    "static/media/cartIcon.svg": "/SAVE-MONEY-DASHBOARD/static/media/cartIcon.ad31a888590857c57aab3f8d2021e435.svg",
+    "static/media/houseIcon.svg": "/SAVE-MONEY-DASHBOARD/static/media/houseIcon.a0914e6ac4cf70465484ac3d1e6aea6a.svg",
+    "main.edfe0556.css.map": "/SAVE-MONEY-DASHBOARD/static/css/main.edfe0556.css.map",
+    "main.e26d88e3.js.map": "/SAVE-MONEY-DASHBOARD/static/js/main.e26d88e3.js.map",
+    "453.258b012d.chunk.js.map": "/SAVE-MONEY-DASHBOARD/static/js/453.258b012d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edfe0556.css",
+    "static/js/main.e26d88e3.js"
+  ]
+}

@@ -1,6 +1,5 @@
 import styles from './Sidebar.module.scss'
 import daltonImg from '../../assets/png/dalton.png'
-import samanthaImg from '../../assets/png/samantha.png'
 
 import { Link, useLocation } from 'react-router-dom'
 
